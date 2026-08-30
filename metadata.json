@@ -1,0 +1,7 @@
+{
+  "name": "EdubbaX",
+  "description": "AI Müəllim Platforması — Süni intellekt dəstəkli quiz generasiyası, canlı interaktiv dərslər və analitika",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
